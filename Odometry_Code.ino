@@ -3,7 +3,7 @@
 #define PI 3.1415926535897932384626433832795  // Define the constant value of PI
 
 // Robot control parameters
-int N = 20;  // Not clear what this variable is for
+int N = 20;  
 int contadorTicks = 500;  // Number of ticks for encoder counting
 int tam = 10;  // Size of the data vector for filtering
 int k = 10;  // Time interval for odometry calculations
