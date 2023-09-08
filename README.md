@@ -1,10 +1,6 @@
 # Odometry-and-Position-Estimation-for-Mobile-Robot
 In this repository we will learn about an Arduino-based robot control and odometry project using wheel encoders for educational robotics exploration and data visualization with MATLAB.
 
-Certainly! Here's a complete documentation template for your GitHub project, including objectives, functionalities, hardware and software requirements, usage instructions, conclusion, applications, description, and an emphasis on its educational value:
-
----
-
 # Arduino Robot Control and Odometry
 
 ## Objective
